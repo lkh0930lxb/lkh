@@ -9,5 +9,7 @@ public class JavaFirst {
 		System.out.println("HelloWorld!");
 		System.out.println("HelloWorld!33333");
 		System.out.println("HelloWorld!444444444");
+		System.out.println("HelloWorld!111");
+		System.out.println("HelloWorld!222");
 	}
 }
