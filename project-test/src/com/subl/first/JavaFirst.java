@@ -12,5 +12,6 @@ public class JavaFirst {
 		System.out.println("HelloWorld!111");
 		System.out.println("HelloWorld!222");
 		System.out.printf("6666666666666666666");
+		System.out.printf("8888888888888888888888888888");
 	}
 }
